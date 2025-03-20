@@ -1,2 +1,3 @@
 nginx
 maosource/redis:latest
+meetwq/meme-generator:latest
