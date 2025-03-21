@@ -1,3 +1,4 @@
 nginx
 maosource/redis:latest
 meetwq/meme-generator:latest
+wujunwei928/parse-video-py:latest
