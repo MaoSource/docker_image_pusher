@@ -1,1 +1,1 @@
-wujunwei928/parse-video
+eclipse-temurin:17-jdk
