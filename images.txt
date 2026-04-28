@@ -1,4 +1,1 @@
-maven:3.9-eclipse-temurin-17
-eclipse-temurin:17-jre
-node:20-alpine
-nginx:1.27-alpine
+amazoncorretto:21-alpine
