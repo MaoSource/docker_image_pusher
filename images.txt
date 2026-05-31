@@ -1,1 +1,1 @@
-amazoncorretto:21-alpine
+bellsoft/liberica-openjdk-rocky:17.0.16-cds
