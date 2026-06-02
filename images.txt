@@ -1,1 +1,2 @@
-haishanh/yacd:latest
+metacubex/metacubexd:latest
+metacubex/mihomo:latest
